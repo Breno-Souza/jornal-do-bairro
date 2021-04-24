@@ -1,0 +1,30 @@
+.titulo{
+    background-color: cyan;
+    font-size: 40px;
+    text-align: center;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+.final{
+    background-color: cyan;
+    color: black;
+    text-align: center;
+    padding: 8px;
+}
+
+.final2{
+    font-size: 25px;
+}
+
+.intrior{
+    text-align: center;
+    font-size: 25px
+}
+
+.img{
+    width: 500px;
+}
