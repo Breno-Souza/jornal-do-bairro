@@ -33,3 +33,18 @@
     margin-right: 0px;
     
 }
+
+.vidio{
+    width: 560px;
+    height: 315px;
+    margin-left: 25%;
+    margin-right: 30%;
+    border: groove 30px #4ABDAC;
+    margin-top: 10px;
+    margin-bottom: 60px;
+}
+
+#texto{
+    font-size: 30px;
+    text-align: center;
+}
